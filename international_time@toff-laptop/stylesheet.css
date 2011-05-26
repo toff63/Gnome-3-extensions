@@ -1,0 +1,17 @@
+/* Example stylesheet */
+.helloworld-label {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+}
+
+.panel-label {
+    padding: .4em 1.75em;
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: rgba(10,10,10,0.7);
+}
+
